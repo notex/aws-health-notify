@@ -1,0 +1,8 @@
+rss_feeds:
+    cloudfront: http://status.aws.amazon.com/rss/cloudfront.rss
+    s3tokyo: http://status.aws.amazon.com/rss/s3-ap-northeast-1.rss
+
+mail_from: from_name<from_adress@example.com>
+
+mail_to:
+    - to_address@exmple.com
