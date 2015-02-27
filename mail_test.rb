@@ -16,4 +16,10 @@ Pony.options = {
   }
 }
 
-Pony.mail(:to => 'notexy@gmail.com', :from => 'aws-health-notify<notex@mac.com>', :subject => 'hi', :body => 'Hello there.')
+Pony.mail(
+  :to => [],
+  :bcc => ['notexy@gmail.com', 'notex@mac.com'],
+  :from => 'aws-health-notify<app34367913@heroku.com>',
+  :subject => '日本語',
+  :body => 'こんにちは'
+)
