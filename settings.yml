@@ -5,5 +5,4 @@ rss_feeds:
 mail_from: aws-health-notify<app34367913@heroku.com>
 
 mail_to:
-    - notexy@gmail.com
-    - notex@mac.com
+    - notex@ezweb.ne.jp
