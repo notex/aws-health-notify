@@ -2,7 +2,7 @@ rss_feeds:
     cloudfront: http://status.aws.amazon.com/rss/cloudfront.rss
     s3tokyo: http://status.aws.amazon.com/rss/s3-ap-northeast-1.rss
 
-mail_from: aws-health-notify<app34367913@heroku.com>
+mail_from: aws-health-notify<notex@mac.com>
 
 mail_to:
     - notex@ezweb.ne.jp
